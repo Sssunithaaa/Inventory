@@ -50,9 +50,9 @@ This project is an Inventory Management System developed using the MERN (MongoDB
 
 ## usage
 - Start the backend server
-  cd backend
-  npm start
+  - cd backend
+  - npm start
 - Start the frontend server
-  cd frontend
-  npm start
+  - cd frontend
+  - npm start
 
