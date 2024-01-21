@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Inventory Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, Tailwind CSS for styling, React-Redux for state management, and MySQL as the relational database. The system provides functionalities for managing inventory items, tracking stock levels, and generating reports to facilitate efficient inventory control.
+This project is an Inventory Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, Tailwind CSS for styling, React-Redux for state management, and MySQL as the relational database. The system provides functionalities for managing inventory items, clients and suppliers, tracking stock levels, and generating reports to facilitate efficient inventory control.
 
 ## Table of Contents
 
@@ -10,10 +10,6 @@ This project is an Inventory Management System developed using the MERN (MongoDB
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -49,6 +45,14 @@ This project is an Inventory Management System developed using the MERN (MongoDB
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
-   cd inventory-management-system
+   git clone https://github.com/your-username/inventory.git
+   cd inventory
+
+## usage
+- Start the backend server
+  cd backend
+  npm start
+- Start the frontend server
+  cd frontend
+  npm start
 
