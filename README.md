@@ -38,7 +38,7 @@ This project is an Inventory Management System developed using the MERN (MongoDB
 
 - **Additional Tools:**
   - Axios for API requests
-  - ...
+
 
 ## Installation
 
